@@ -43,7 +43,7 @@ Stop Time 12/14/2023 19:04:29
 
 ![Alt Text](./before_controls/linux-ssh-fail.png)
 ![Alt Text](./before_controls/nsg-mal.png)
-![Alt Text](./before_controls/winedp-fail.png)
+![Alt Text](./before_controls/winrdp-fail.png)
 
 
 ## Metrics After Hardening / Security Controls
