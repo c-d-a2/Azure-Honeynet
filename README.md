@@ -51,7 +51,7 @@ Stop Time 12/14/2023 19:04:29
 The following table shows the metrics we measured in our environment for another 24 hours, but after we have applied security controls:
 Start Time 12/15/2023 14:04:29
 Stop Time	12/16/2023 14:04:29
-
+I had no results from my the maps because there were no metrics to plot on the map  which validates the effectiveness of security controls and highlights the danger of leaving your devices wide open on the internet without the proper controls. 
 | Metric                   | Count
 | ------------------------ | -----
 | SecurityEvent            | 0
