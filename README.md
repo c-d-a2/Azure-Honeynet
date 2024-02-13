@@ -4,7 +4,7 @@ Honeynet built using the azure cloud platform.
 
 ## Introduction
 
-In this project, I created a mini honeynet in Azure. I ingested log sources from various resources into a Log Analytics workspace, which is then used by Microsoft Sentinel to build attack maps, trigger alerts, and create incidents. I measured some security metrics in the insecure environment for 24 hours, applied some security controls (NIST 800-53) to harden the environment, measureed metrics for another 24 hours, then show the results below. The metrics we will show are:
+In this project, I created a mini honeynet in Azure. I ingested log sources from various resources into a Log Analytics workspace, which is then used by Microsoft Sentinel to build attack maps, trigger alerts, and create incidents. I measured some security metrics in the insecure environment for 24 hours, applied some security controls (NIST 800-53) to harden the environment, measured metrics for another 24 hours, then showed the results below. The metrics that are displayed are:
 
 - SecurityEvent (Windows Event Logs)
 - Syslog (Linux Event Logs)
